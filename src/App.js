@@ -1,6 +1,6 @@
 import React, { Component } from 'react';
 import { BrowserRouter, Switch, Route } from 'react-router-dom';
-import Navbar from './components/Navbar';
+import Navbar from './components/layout/Navbar';
 // import Tasks from './components/Tasks';
 // import NewListForm from './components/ListForm';
 // import ListHeader from './components/ListHeader';
